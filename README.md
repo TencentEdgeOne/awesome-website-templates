@@ -1,5 +1,5 @@
 <div align="center">
-  <strong><a> 中文简体 </a> ｜ English</strong>
+  <strong><a href="https://github.com/TencentEdgeOne/awesome-website-templates/blob/main/README.zh.md"> 中文简体 </a> ｜ English</strong>
 </div>
 <hr/>
 <h1 align="center">📢 Awesome <span style="color: #1c66e5">EdgeOne</span> Website Templates Collection 📢</h1>
