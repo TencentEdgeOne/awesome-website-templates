@@ -50,10 +50,11 @@ src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd0
     <hr/>
     <div>
       <strong>模版名称</strong>: <a href="https://github.com/lin-xin/vue-manage-system">vue-manage-system</a><div> <br/>
+      <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/65a91bba-dd8b-49fc-b9de-15299549bae6" />
       <div><em>基于 Vue 的后台管理脚手架。</em><div> <br/>
       <div>
         <a href="https://edgeone.ai/products/pages" target="_blank"><img
-    src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"
+src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"
         alt="Deploy with EdgeOne Pages" data-canonical-src="https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg" style="max-width: 100%;"></a>
       <div> <br/>
     </div>
