@@ -49,6 +49,7 @@ src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd0
     <hr/>
     <div>
       <strong>Template Name</strong>: <a href="https://github.com/lin-xin/vue-manage-system">vue-manage-system</a><div> <br/>
+      <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/65a91bba-dd8b-49fc-b9de-15299549bae6" />
       <div><em>Vue-based admin management scaffold.</em><div> <br/>
       <div>
         <a href="https://edgeone.ai/products/pages" target="_blank"><img
