@@ -17,6 +17,7 @@
   <h1 id='design'>设计画图类项目</h1>
   <div>
     <strong>模版名称</strong>: <a href="https://github.com/wanglin2/mind-map">mind-map</a><div> <br/>
+    <img width="300" alt="Clipboard_Screenshot_1742885385" src="https://github.com/user-attachments/assets/0ce52b56-2158-4de0-a4ac-cf98e9c92931" />
     <div><em>一个简单&强大的 Web 思维导图库和思维导图软件。</em><div> <br/>
     <div>
       <a href="https://edgeone.ai/products/pages" target="_blank"><img 
@@ -24,5 +25,20 @@ src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd0
       alt="Deploy with EdgeOne Pages" data-canonical-src="https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg" style="max-width: 100%;"></a>
     <div> <br/>
   </div>
+  <hr/>
+</div>
+
+<div>
+    <h1 id='system'>系统管理类</h1>
+    <div>
+      <strong>模版名称</strong>: <a href="https://github.com/Tencent-RTC/TUIRoomKit">Tencent RTC</a><div> <br/>
+      <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/eeb3560a-5e3e-4c40-87b5-03bbe7851799" />
+      <div><em>Tencent 音视频通讯 Web 端。</em><div> <br/>
+      <div>
+        <a href="https://edgeone.ai/products/pages" target="_blank"><img 
+    src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667" 
+        alt="Deploy with EdgeOne Pages" data-canonical-src="https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg" style="max-width: 100%;"></a>
+      <div> <br/>
+    </div>
   <hr/>
 </div>
