@@ -1,5 +1,5 @@
 <div align="center">
-  <strong><a> 中文简体 </a> ｜ English</strong>
+  <strong>中文简体 ｜ <a>English</a></strong>
 </div>
 <hr/>
 
