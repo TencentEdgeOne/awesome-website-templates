@@ -3,14 +3,16 @@
 </div>
 <hr/>
 
-<h1 align="center">📢 支持 EdgeOne Pages 一键部署项目合集！！ 📢</h1>
-<p align="center"><i>✨ 各类一键部署项目持续更新中... ✨</i></p>
+<h1 align="center">📢 Awesome <span style="color: #1c66e5">EdgeOne</span> Website Templates Collection 📢</h1>
+<p align="center"><i>✨ 各类精选项目，支持 EdgeOne Pages 一键部署，持续更新中... ✨</i></p>
+<p align="center"><i>✨ 欢迎各位开发者在 Discussions 中自荐项目！ ✨</i></p>
+
 <div align="center">
   <table>
     <tr bgcolor="#f0f0f0">
       <th><a href="#design">设计画图类</a></th>
       <th><a href="#ai">AI</a></th>
-      <th><a href="#system">系统管理类</a></th>
+      <th><a href="#system">脚手架类</a></th>
       <th><a href="#diy">炫酷 DIY 类</a></th>
       <th><a href="#game">游戏类</a></th>
       <th><a href="#common">经典项目</a></th
@@ -34,7 +36,7 @@ src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd0
 </div>
 
 <div>
-    <h1 id='system'>系统管理类</h1>
+    <h1 id='system'>脚手架类</h1>
     <div>
       <strong>模版名称</strong>: <a href="https://github.com/Tencent-RTC/TUIRoomKit">Tencent RTC</a><div> <br/>
       <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/eeb3560a-5e3e-4c40-87b5-03bbe7851799" />
