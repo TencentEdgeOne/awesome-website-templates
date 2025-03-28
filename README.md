@@ -36,7 +36,7 @@ src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd0
   <div>
     <strong>Template Name: </strong>: <a href="https://github.com/JLinMr/Mini-Cover">Mini-Cover</a><div> <br/>
     <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/f6c7db95-e3c5-4122-9f9e-6ddf61f3bec1" />
-    <div><em></em><div> <br/>
+    <div><em></em>Mini-Cover is a modern cover generation tool designed specifically for blogs, short videos, and social media. It supports a variety of customization options, allowing you to easily create personalized cover images.<div> <br/>
     <div>
       <a href="https://edgeone.ai/products/pages" target="_blank"><img
     src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"
@@ -96,6 +96,17 @@ src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd0
       <strong>Template Name: </strong>: <a href="https://github.com/mearashadowfax/ScrewFast">Versatile Landing, Blog & Docs Template for a Simplified Web Presence</a><div> <br/>
       <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/b31dae67-c7d5-48cc-9a6c-92914f8aae2d" />
       <div><em>  ScrewFast is an open-source template designed for quick and efficient web project setup, blending minimalism with functionality. Whether you're showcasing a portfolio, launching a company landing page, or running a blog, ScrewFast provides everything you need. By combining the power of the Astro, Tailwind CSS, and Preline UI, this template offers a functional and aesthetically pleasing solution for your web presence.</em><div> <br/>
+      <div>
+        <a href="https://edgeone.ai/products/pages" target="_blank"><img
+    src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"
+        alt="Deploy with EdgeOne Pages" data-canonical-src="https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg" style="max-width: 100%;"></a>
+      <div> <br/>
+    </div>
+    <hr/>
+    <div>
+      <strong>Template Name: </strong>: <a href="https://github.com/tyorkyu/shadcn-admin">shadcn-admin</a><div> <br/>
+      <img width="300" alt="Clipboard_Screenshot_1743155231" src="https://github.com/user-attachments/assets/73d47c7a-7c62-41c3-be48-f17118253198" />
+      <div><em>Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.I've been creating dashboard UIs at work and for my personal projects. I always wanted to make a reusable collection of dashboard UI for future projects; and here it is now. While I've created a few custom components, some of the code is directly adapted from ShadcnUI examples.</em><div> <br/>
       <div>
         <a href="https://edgeone.ai/products/pages" target="_blank"><img
     src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"
