@@ -35,17 +35,6 @@
     </div>
     <hr/>
     <div>
-      <strong>Template Name</strong>: <a href="https://github.com/lin-xin/vue-manage-system">vue-manage-system</a><div> <br/>
-      <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/65a91bba-dd8b-49fc-b9de-15299549bae6" />
-      <div><em>Vue-based admin management scaffold.</em><div> <br/>
-      <div>
-        <a href="https://edgeone.ai/products/pages" target="_blank"><img
-    src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"
-        alt="Deploy with EdgeOne Pages" data-canonical-src="https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg" style="max-width: 100%;"></a>
-      <div> <br/>
-    </div>
-    <hr/>
-    <div>
       <strong>Template Name: </strong>: <a href="https://github.com/manuelernestog/astrofy">Astrofy</a><div> <br/>
       <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/815f2b76-920e-4b17-9dbc-8c64d4f08fb0" />
       <div><em>Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with a Blog</em><div> <br/>
@@ -71,6 +60,17 @@
       <strong>Template Name: </strong>: <a href="https://github.com/tyorkyu/shadcn-admin">shadcn-admin</a><div> <br/>
       <img width="300" alt="Clipboard_Screenshot_1743155231" src="https://github.com/user-attachments/assets/73d47c7a-7c62-41c3-be48-f17118253198" />
       <div><em>Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.I've been creating dashboard UIs at work and for my personal projects. I always wanted to make a reusable collection of dashboard UI for future projects; and here it is now. While I've created a few custom components, some of the code is directly adapted from ShadcnUI examples.</em><div> <br/>
+      <div>
+        <a href="https://edgeone.ai/products/pages" target="_blank"><img
+    src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"
+        alt="Deploy with EdgeOne Pages" data-canonical-src="https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg" style="max-width: 100%;"></a>
+      <div> <br/>
+    </div>
+    <hr/>
+    <div>
+      <strong>Template Name</strong>: <a href="https://github.com/lin-xin/vue-manage-system">vue-manage-system</a><div> <br/>
+      <img width="300" alt="Clipboard_Screenshot_1742885205" src="https://github.com/user-attachments/assets/65a91bba-dd8b-49fc-b9de-15299549bae6" />
+      <div><em>Vue-based admin management scaffold.</em><div> <br/>
       <div>
         <a href="https://edgeone.ai/products/pages" target="_blank"><img
     src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667"

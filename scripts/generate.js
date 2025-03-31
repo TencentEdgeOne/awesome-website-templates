@@ -1,0 +1,1 @@
+// 根据 templates.json 生成 README 和 README.zh 文档

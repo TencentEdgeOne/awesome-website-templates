@@ -1,0 +1,23 @@
+{
+  "CH": [],
+  "EN": [
+    {
+      "name": "mind-map",
+      "description": "A simple & powerful Web mind mapping library and mind mapping software.",
+      "slug": "deepseek-r1-edge",
+      "publisher": "EdgeOne Pages",
+      "installCommand": "npm install",
+      "buildCommand": "npm run build",
+      "outputDirectory": "out",
+      "framework": [
+        "Next.js"
+      ],
+      "class": "Design & Drawing Projects",
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/TencentEdgeOne/pages-templates/tree/main/examples/deepseek-r1-edge",
+      "demoUrl": "https://deepseek-r1-edge.edgeone.app",
+      "thumbnail": "https://cdnstatic.tencentcs.com/edgeone/pages/assets/1740020274209-s7ck.png"
+    }
+  ]
+}
