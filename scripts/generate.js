@@ -65,11 +65,11 @@ function generateProject(projectData) {
     <td width=350>      
     <img width="300" alt="" src="${projectData.thumbnail}" style="margin-right: 24px"/></td>
     <td width=700><div>
-      <strong><a href="${projectData.repoDir}">${projectData.name}</a></strong><div> <br/>
+      <strong><a href="${projectData.repoDir}" style="color: black;text-decoration: none;">${projectData.name}</a></strong><div> <br/>
     </div>
       <div><em>${projectData.description}</em><div> <br/>
       <div>
-        <a href="${generateHref(projectData.repoDir, projectData.commands)}" target="_blank">One-click deployment</a>
+        <a href="${generateHref(projectData.repoDir, projectData.commands)}" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
       <div> <br/></td>
   </tr>
 </table>`
