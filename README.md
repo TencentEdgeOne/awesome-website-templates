@@ -16,7 +16,7 @@
 </div><h1 id='scaffolds'>Scaffolds</h1>  
 <table>
     <td width=350>      
-    <img width="300" alt="" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/cf5d54b3-4682-4f6b-88ee-2ce9bcc86013.png" style="margin-right: 24px"/></td>
+    <img width="300" alt="" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2b73ba30-ee33-4e02-b874-644e53b65751.png" style="margin-right: 24px"/></td>
     <td width=700><div>
       <strong><a href="https://github.com/Tencent-RTC/TUIRoomKit">Tencent RTC</a></strong><div> <br/>
     </div>
