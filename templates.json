@@ -2,22 +2,143 @@
   "CH": [],
   "EN": [
     {
-      "name": "mind-map",
-      "description": "A simple & powerful Web mind mapping library and mind mapping software.",
-      "slug": "deepseek-r1-edge",
+      "name": "Tencent RTC",
+      "description": "Tencent audio and video communication Web client.",
+      "class": "Scaffolds",
       "publisher": "EdgeOne Pages",
-      "installCommand": "npm install",
-      "buildCommand": "npm run build",
-      "outputDirectory": "out",
+      "commands": {
+      },
       "framework": [
-        "Next.js"
+        "Vue.js"
       ],
-      "class": "Design & Drawing Projects",
       "envs": [],
       "docUrl": "",
-      "repoDir": "https://github.com/TencentEdgeOne/pages-templates/tree/main/examples/deepseek-r1-edge",
-      "demoUrl": "https://deepseek-r1-edge.edgeone.app",
-      "thumbnail": "https://cdnstatic.tencentcs.com/edgeone/pages/assets/1740020274209-s7ck.png"
+      "repoDir": "https://github.com/Tencent-RTC/TUIRoomKit",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/cf5d54b3-4682-4f6b-88ee-2ce9bcc86013.png"
+    },
+    {
+      "name": "Astrofy",
+      "description": "Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with a Blog.",
+      "class": "Scaffolds",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "Astro"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/manuelernestog/astrofy",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/b8fa34fc-9bd3-48aa-b226-4e611405fa47.png"
+    },
+    {
+      "name": "Versatile Landing, Blog & Docs Template for a Simplified Web Presence",
+      "description": "ScrewFast is an open-source template designed for quick and efficient web project setup, blending minimalism with functionality. Whether you're showcasing a portfolio, launching a company landing page, or running a blog, ScrewFast provides everything you need. By combining the power of the Astro, Tailwind CSS, and Preline UI, this template offers a functional and aesthetically pleasing solution for your web presence.",
+      "class": "Scaffolds",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "Astro"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/mearashadowfax/ScrewFast",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7afde78c-f9af-4a8f-b105-55ee4201f066.png"
+    },
+    {
+      "name": "shadcn-admin",
+      "description": "Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.I've been creating dashboard UIs at work and for my personal projects. I always wanted to make a reusable collection of dashboard UI for future projects; and here it is now. While I've created a few custom components, some of the code is directly adapted from ShadcnUI examples.",
+      "class": "Scaffolds",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "React"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/satnaing/shadcn-admin",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/fe213e6c-3758-464c-9b5a-5b1a527bdaa5.png"
+    },
+    {
+      "name": "vue-manage-system",
+      "description": "Vue-based admin management scaffold.",
+      "class": "Scaffolds",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "Vue.js"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/lin-xin/vue-manage-system",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7b1c3f9e-7946-43f7-acd9-1a4951404233.png"
+    },
+    {
+      "statu": "wait",
+      "name": "mind-map",
+      "description": "A simple & powerful Web mind mapping library and mind mapping software.",
+      "class": "Design & Drawing Projects",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "Vue.js"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/wanglin2/mind-map",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2df1f506-9778-4c4b-9d6e-b2630384273f.png"
+    },
+    {
+      "statu": "wait",
+      "name": "Mini-Cover",
+      "description": "Mini-Cover is a modern cover generation tool designed specifically for blogs, short videos, and social media. It supports a variety of customization options, allowing you to easily create personalized cover images.",
+      "class": "Design & Drawing Projects",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "Vue.js"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/JLinMr/Mini-Cover",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/10489988-8f16-4cc1-a6cd-3848dca5b324.png"
+    },
+    {
+      "statu": "wait",
+      "name": "Coverview",
+      "description": "Creating cover images for your blogs is now super easy.",
+      "class": "Design & Drawing Projects",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "Vue.js"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/rutikwankhade/CoverView",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/b8701802-5fad-4270-81a1-859e90816114.png"
+    },
+    {
+      "statu": "wait",
+      "name": " 3d Apple iphone in React JS",
+      "description": "Create an awesome 3d Landing Page for Apple iphone in React JS",
+      "class": "ThreeD",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+      },
+      "framework": [
+        "Vue.js"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/f4c732f7-9a1d-4d75-bd49-f7bb3b668a37.png"
     }
   ]
 }
