@@ -62,7 +62,7 @@ function generateHref(repoDir, commands) {
 function generateProject(projectData) {
   let projectHtml = `  \n<table>
     <td width=350>      
-    <img width="300" alt="" src="${projectData.thumbnail}" style="margin-right: 24px"/></td>
+    <img width="300" object-fit="fill" alt="${projectData.name}" src="${projectData.thumbnail}" style="margin-right: 24px"/></td>
     <td width=700><div>
       <h3>${projectData.name}·<a href="${projectData.repoDir}">Github👆</a></h3><div> <br/>
     </div>
