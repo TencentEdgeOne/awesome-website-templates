@@ -23,7 +23,7 @@
     </div>
       <div><em>Tencent audio and video communication Web client.</em><div> <br/>
       <div>
-        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/Tencent-RTC/TUIRoomKit" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
+        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/Tencent-RTC/TUIRoomKit&root-directory=.%2FWeb%2Fexample%2Fwebpack-vue2.7-ts" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
       <div> <br/></td>
   </tr>
 </table>  
@@ -59,7 +59,7 @@
     </div>
       <div><em>Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.I've been creating dashboard UIs at work and for my personal projects. I always wanted to make a reusable collection of dashboard UI for future projects; and here it is now. While I've created a few custom components, some of the code is directly adapted from ShadcnUI examples.</em><div> <br/>
       <div>
-        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/satnaing/shadcn-admin" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
+        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/satnaing/shadcn-admin&output-directory=dist&install-command=pnpm%20install&build-command=pnpm%20build" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
       <div> <br/></td>
   </tr>
 </table>  
@@ -75,18 +75,6 @@
       <div> <br/></td>
   </tr>
 </table><h1 id='designdrawingprojects'>Design & Drawing Projects</h1>  
-<table>
-    <td width=350>      
-    <img width="300" object-fit="fill" alt="mind-map" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2df1f506-9778-4c4b-9d6e-b2630384273f.png" style="margin-right: 24px"/></td>
-    <td width=700><div>
-      <h3>mind-map · <a href="https://github.com/wanglin2/mind-map">Github👆</a></h3><div> <br/>
-    </div>
-      <div><em>A simple & powerful Web mind mapping library and mind mapping software.</em><div> <br/>
-      <div>
-        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/wanglin2/mind-map" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
-      <div> <br/></td>
-  </tr>
-</table>  
 <table>
     <td width=350>      
     <img width="300" object-fit="fill" alt="Mini-Cover" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/10489988-8f16-4cc1-a6cd-3848dca5b324.png" style="margin-right: 24px"/></td>

@@ -7,6 +7,7 @@
       "class": "Scaffolds",
       "publisher": "EdgeOne Pages",
       "commands": {
+        "rootDirectory": "./Web/example/webpack-vue2.7-ts"
       },
       "framework": [
         "Vue.js"
@@ -52,6 +53,9 @@
       "class": "Scaffolds",
       "publisher": "EdgeOne Pages",
       "commands": {
+        "outputDirectory": "dist",
+        "installCommand": "pnpm install",
+        "buildCommand": "pnpm build"
       },
       "framework": [
         "React"
@@ -75,22 +79,6 @@
       "docUrl": "",
       "repoDir": "https://github.com/lin-xin/vue-manage-system",
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7b1c3f9e-7946-43f7-acd9-1a4951404233.png"
-    },
-    {
-      "statu": "wait",
-      "name": "mind-map",
-      "description": "A simple & powerful Web mind mapping library and mind mapping software.",
-      "class": "Design & Drawing Projects",
-      "publisher": "EdgeOne Pages",
-      "commands": {
-      },
-      "framework": [
-        "Vue.js"
-      ],
-      "envs": [],
-      "docUrl": "",
-      "repoDir": "https://github.com/wanglin2/mind-map",
-      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2df1f506-9778-4c4b-9d6e-b2630384273f.png"
     },
     {
       "statu": "wait",
