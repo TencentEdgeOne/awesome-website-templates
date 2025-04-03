@@ -130,6 +130,8 @@
       "class": "ThreeD",
       "publisher": "EdgeOne Pages",
       "commands": {
+        "projectName": "3droom",
+        "repositoryName": "3droom",
         "installCommand": "npm update && npm run build"
       },
       "framework": [
@@ -140,8 +142,24 @@
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/ee70dce7-37e3-46e2-aa7b-f47b23746f86.png"
     },
     {
-      "statu": "wait",
-      "name": " 3D Apple iphone in React JS",
+      "name": "3D Blog",
+      "description": "A 3D blog project implemented using Three.js, where users can drive a small car to find and read articles.",
+      "class": "ThreeD",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+        "outputDirectory": "dist",
+        "installCommand": "npm install",
+        "buildCommand": "npm run build"
+      },
+      "framework": [
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/brunosimon/folio-2019",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/aec3858c-a657-4e3b-b02c-7740be9a0df3.png"
+    },
+    {
+      "name": "3D Apple iphone in React JS",
       "description": "Create an awesome 3d Landing Page for Apple iphone in React JS",
       "class": "ThreeD",
       "publisher": "EdgeOne Pages",
@@ -154,6 +172,23 @@
       "docUrl": "",
       "repoDir": "https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone",
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/f4c732f7-9a1d-4d75-bd49-f7bb3b668a37.png"
+    },
+    {
+      "name": "Pokémon Cards",
+      "description": "Uses CSS Transforms, Gradients, Blend-modes and Filters to simulate the various Holofoil effects found in the Sword and Shield era of Pokemon Trading Cards.",
+      "class": "Cool DIY",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+        "outputDirectory": "dist",
+        "installCommand": "npm install",
+        "buildCommand": "npm run build"
+      },
+      "framework": [
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/simeydotme/pokemon-cards-css",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/db998256-5f40-4ca4-87b1-8aaa13586467.png"
     }
   ]
 }

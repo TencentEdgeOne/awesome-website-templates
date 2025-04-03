@@ -10,6 +10,9 @@ const commandsMap = new Map([
   ['buildCommand', 'build-command'],
   ['outputDirectory', 'output-directory'],
   ['rootDirectory', 'root-directory'],
+  ['projectName', 'project-name'],
+  ['repositoryName', 'repository-name'],
+
 ])
 
 let html = `<div align="center">
@@ -64,7 +67,7 @@ function generateProject(projectData) {
     <td width=350>      
     <img width="300" object-fit="fill" alt="${projectData.name}" src="${projectData.thumbnail}" style="margin-right: 24px"/></td>
     <td width=700><div>
-      <h3>${projectData.name}·<a href="${projectData.repoDir}">Github👆</a></h3><div> <br/>
+      <h3>${projectData.name} · <a href="${projectData.repoDir}">Github👆</a></h3><div> <br/>
     </div>
       <div><em>${projectData.description}</em><div> <br/>
       <div>
