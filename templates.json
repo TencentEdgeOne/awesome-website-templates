@@ -125,8 +125,23 @@
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/b8701802-5fad-4270-81a1-859e90816114.png"
     },
     {
+      "name": " My Room in 3D",
+      "description": "A beautiful room built using web 3D technology. The project is very interesting and can be used as a perfect demo to showcase web 3D technology.",
+      "class": "ThreeD",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+        "installCommand": "npm update && npm run build"
+      },
+      "framework": [
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/brunosimon/my-room-in-3d",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/ee70dce7-37e3-46e2-aa7b-f47b23746f86.png"
+    },
+    {
       "statu": "wait",
-      "name": " 3d Apple iphone in React JS",
+      "name": " 3D Apple iphone in React JS",
       "description": "Create an awesome 3d Landing Page for Apple iphone in React JS",
       "class": "ThreeD",
       "publisher": "EdgeOne Pages",

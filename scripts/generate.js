@@ -53,10 +53,9 @@ function generateHref(repoDir, commands) {
   let commandStr = ''
   Object.keys(commands).forEach(item => {
     if(commands[item] === '') return
-    commandStr += `&${commandsMap.get(item)}=${commands[item]}`
+    commandStr += `&${commandsMap.get(item)}=${encodeURIComponent(commands[item])}`
   })
-  let href = encodeURI(`https://edgeone.ai/pages/new?from=awesome&template=${repoDir}${commandStr}`)
-
+  let href = `https://edgeone.ai/pages/new?from=awesome&template=${repoDir}${(commandStr)}`
   return href
 }
 
@@ -65,7 +64,7 @@ function generateProject(projectData) {
     <td width=350>      
     <img width="300" alt="" src="${projectData.thumbnail}" style="margin-right: 24px"/></td>
     <td width=700><div>
-      <strong><a href="${projectData.repoDir}" style="color: black;text-decoration: none;">${projectData.name}</a></strong><div> <br/>
+      <h3>${projectData.name}·<a href="${projectData.repoDir}">Github👆</a></h3><div> <br/>
     </div>
       <div><em>${projectData.description}</em><div> <br/>
       <div>
