@@ -183,16 +183,4 @@
         <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/doublespeakgames/adarkroom&build-command=npm%20install&output-directory=.%2F" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
       <div> <br/></td>
   </tr>
-</table>  
-<table>
-    <td width=350>      
-    <img width="300" object-fit="fill" alt="proxx" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/86442241-cd3d-49d2-83f5-bf119ea2b8a8.png" style="margin-right: 24px"/></td>
-    <td width=700><div>
-      <h3>proxx · <a href="https://github.com/GoogleChromeLabs/proxx">Github👆</a></h3><div> <br/>
-    </div>
-      <div><em>A game similar to Minesweeper, the gameplay and rules are basically the same as Minesweeper. This game is to eliminate the black holes behind the unknown blocks.</em><div> <br/>
-      <div>
-        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/GoogleChromeLabs/proxx" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
-      <div> <br/></td>
-  </tr>
 </table></div>

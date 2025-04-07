@@ -226,21 +226,6 @@
       "docUrl": "",
       "repoDir": "https://github.com/doublespeakgames/adarkroom",
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/86442241-cd3d-49d2-83f5-bf119ea2b8a8.png"
-    },
-    {
-      "name": "proxx",
-      "description": "A game similar to Minesweeper, the gameplay and rules are basically the same as Minesweeper. This game is to eliminate the black holes behind the unknown blocks.",
-      "class": "Game",
-      "publisher": "EdgeOne Pages",
-      "commands": {
-      },
-      "framework": [
-        "Other"
-      ],
-      "envs": [],
-      "docUrl": "",
-      "repoDir": "https://github.com/GoogleChromeLabs/proxx",
-      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/86442241-cd3d-49d2-83f5-bf119ea2b8a8.png"
     }
   ]
 }
