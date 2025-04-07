@@ -55,7 +55,6 @@ function generateClass() {
 function generateHref(repoDir, commands) {
   let commandStr = ''
   Object.keys(commands).forEach(item => {
-    if(commands[item] === '') return
     commandStr += `&${commandsMap.get(item)}=${encodeURIComponent(commands[item])}`
   })
   let href = `https://edgeone.ai/pages/new?from=awesome&template=${repoDir}${(commandStr)}`
