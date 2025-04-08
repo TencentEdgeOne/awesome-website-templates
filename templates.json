@@ -2,6 +2,22 @@
   "CH": [],
   "EN": [
     {
+      "name": "Hextris",
+      "description": "This is a fast-paced puzzle game inspired by Tetris. Hextris is basically played the same way as Tetris, eliminating falling blocks by controlling the direction.",
+      "class": "Game",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+        "outputDirectory": "./"
+      },
+      "framework": [
+        "Other"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/Hextris/hextris",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7ec1a2ed-6021-404d-9048-bf3171412ed7.png"
+    },
+    {
       "name": "Tencent RTC",
       "description": "Tencent audio and video communication Web client.",
       "class": "Scaffolds",
@@ -193,22 +209,6 @@
       "docUrl": "",
       "repoDir": "https://github.com/mumuy/pacman",
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/aa3fc4ab-4ac1-422d-aab9-fc12893528af.png"
-    },
-    {
-      "name": "Hextris",
-      "description": "This is a fast-paced puzzle game inspired by Tetris. Hextris is basically played the same way as Tetris, eliminating falling blocks by controlling the direction.",
-      "class": "Game",
-      "publisher": "EdgeOne Pages",
-      "commands": {
-        "outputDirectory": "./"
-      },
-      "framework": [
-        "Other"
-      ],
-      "envs": [],
-      "docUrl": "",
-      "repoDir": "https://github.com/Hextris/hextris",
-      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7ec1a2ed-6021-404d-9048-bf3171412ed7.png"
     },
     {
       "name": "A Dark Room",
