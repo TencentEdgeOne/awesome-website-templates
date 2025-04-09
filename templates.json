@@ -97,12 +97,13 @@
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7b1c3f9e-7946-43f7-acd9-1a4951404233.png"
     },
     {
-      "statu": "wait",
       "name": "Mini-Cover",
       "description": "Mini-Cover is a modern cover generation tool designed specifically for blogs, short videos, and social media. It supports a variety of customization options, allowing you to easily create personalized cover images.",
       "class": "Design & Drawing Projects",
       "publisher": "EdgeOne Pages",
       "commands": {
+        "projectName": "mini-cover",
+        "repositoryName": "mini-cover"
       },
       "framework": [
         "Vue.js"

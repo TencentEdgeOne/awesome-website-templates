@@ -120,7 +120,7 @@
     </div>
       <div><em>Mini-Cover is a modern cover generation tool designed specifically for blogs, short videos, and social media. It supports a variety of customization options, allowing you to easily create personalized cover images.</em><div> <br/>
       <div>
-        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/JLinMr/Mini-Cover" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
+        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/JLinMr/Mini-Cover&project-name=mini-cover&repository-name=mini-cover" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
       <div> <br/></td>
   </tr>
 </table>  
