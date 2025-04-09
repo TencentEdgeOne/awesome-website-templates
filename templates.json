@@ -1,5 +1,233 @@
 {
-  "CH": [],
+  "CH":[
+      {
+        "name": "Hextris",
+        "description": "这是一款受俄罗斯方块启发的快节奏益智游戏。Hextris的玩法基本与俄罗斯方块相同，通过控制方向来消除下落的方块。",
+        "class": "Game",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "outputDirectory": "./"
+        },
+        "framework": [
+          "Other"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/Hextris/hextris",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7ec1a2ed-6021-404d-9048-bf3171412ed7.png"
+      },
+      {
+        "name": "Tencent RTC",
+        "description": "腾讯音视频通讯Web客户端。",
+        "class": "Scaffolds",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "rootDirectory": "./Web/example/webpack-vue2.7-ts"
+        },
+        "framework": [
+          "Vue.js"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/Tencent-RTC/TUIRoomKit",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2b73ba30-ee33-4e02-b874-644e53b65751.png"
+      },
+      {
+        "name": "Astrofy",
+        "description": "Astrofy是一个使用Astro和TailwindCSS构建的免费开源个人作品集网站模板。可以在几分钟内创建一个带有博客的网站。",
+        "class": "Scaffolds",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+        },
+        "framework": [
+          "Astro"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/manuelernestog/astrofy",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/b8fa34fc-9bd3-48aa-b226-4e611405fa47.png"
+      },
+      {
+        "name": "Versatile Landing, Blog & Docs Template for a Simplified Web Presence",
+        "description": "ScrewFast是一个开源模板，设计用于快速高效地搭建网络项目，将极简主义与功能性融为一体。无论您是展示作品集、推出公司落地页，还是运营博客，ScrewFast都能提供您所需的一切。通过结合Astro、Tailwind CSS和Preline UI的强大功能，这个模板为您的网络呈现提供了实用且美观的解决方案。",
+        "class": "Scaffolds",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+        },
+        "framework": [
+          "Astro"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/mearashadowfax/ScrewFast",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7afde78c-f9af-4a8f-b105-55ee4201f066.png"
+      },
+      {
+        "name": "shadcn-admin",
+        "description": "使用Shadcn和Vite精心打造的管理后台UI。在设计时考虑了响应性和可访问性。我一直在工作和个人项目中创建仪表盘UI，总想为未来的项目制作一个可重用的仪表盘UI集合；现在它终于问世了。虽然我创建了一些自定义组件，但部分代码直接改编自ShadcnUI示例。",
+        "class": "Scaffolds",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "outputDirectory": "dist",
+          "installCommand": "pnpm install",
+          "buildCommand": "pnpm build"
+        },
+        "framework": [
+          "React"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/satnaing/shadcn-admin",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/fe213e6c-3758-464c-9b5a-5b1a527bdaa5.png"
+      },
+      {
+        "name": "vue-manage-system",
+        "description": "基于Vue的管理后台脚手架。",
+        "class": "Scaffolds",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+        },
+        "framework": [
+          "Vue.js"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/lin-xin/vue-manage-system",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7b1c3f9e-7946-43f7-acd9-1a4951404233.png"
+      },
+      {
+        "name": "Mini-Cover",
+        "description": "Mini-Cover是一个现代化的封面生成工具，专为博客、短视频和社交媒体设计。它支持多种自定义选项，让您轻松创建个性化封面图片。",
+        "class": "Design & Drawing Projects",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "projectName": "mini-cover",
+          "repositoryName": "mini-cover"
+        },
+        "framework": [
+          "Vue.js"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/JLinMr/Mini-Cover",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/10489988-8f16-4cc1-a6cd-3848dca5b324.png"
+      },
+      {
+        "statu": "wait",
+        "name": "Coverview",
+        "description": "为您的博客创建封面图片现在超级简单。",
+        "class": "Design & Drawing Projects",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+        },
+        "framework": [
+          "Vue.js"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/rutikwankhade/CoverView",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/b8701802-5fad-4270-81a1-859e90816114.png"
+      },
+      {
+        "name": " My Room in 3D",
+        "description": "使用网页3D技术构建的精美房间。这个项目非常有趣，可以作为展示网页3D技术的完美演示。",
+        "class": "ThreeD",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "projectName": "3droom",
+          "repositoryName": "3droom",
+          "installCommand": "npm update && npm run build"
+        },
+        "framework": [
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/brunosimon/my-room-in-3d",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2079a8d6-6a4e-4b66-9a60-156a87b02c26.png"
+      },
+      {
+        "name": "3D Blog",
+        "description": "一个使用Three.js实现的3D博客项目，用户可以驾驶一辆小汽车来寻找和阅读文章。",
+        "class": "ThreeD",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "outputDirectory": "dist",
+          "installCommand": "npm install",
+          "buildCommand": "npm run build"
+        },
+        "framework": [
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/brunosimon/folio-2019",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/9709bdfd-93e5-41cc-8a8a-ed87e519bd6a.png"
+      },
+      {
+        "name": "3D Apple iphone in React JS",
+        "description": "在React JS中为苹果iPhone创建一个令人惊叹的3D登陆页面。",
+        "class": "ThreeD",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+        },
+        "framework": [
+          "Vue.js"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/f4c732f7-9a1d-4d75-bd49-f7bb3b668a37.png"
+      },
+      {
+        "name": "Pokémon Cards",
+        "description": "使用CSS变换、渐变、混合模式和滤镜来模拟宝可梦剑盾时代交换卡片中的各种全息效果。",
+        "class": "Cool DIY",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "outputDirectory": "dist",
+          "installCommand": "npm install",
+          "buildCommand": "npm run build"
+        },
+        "framework": [
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/simeydotme/pokemon-cards-css",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/34e2ff56-8730-4a52-9717-340ccef501b0.png"
+      },
+      {
+        "name": "Pacman",
+        "description": "一个纯前端制作的吃豆人游戏。适合初学者学习和娱乐。",
+        "class": "Game",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "outputDirectory": "./"
+        },
+        "framework": [
+          "Other"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/mumuy/pacman",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/aa3fc4ab-4ac1-422d-aab9-fc12893528af.png"
+      },
+      {
+        "name": "A Dark Room",
+        "description": "醒来。头痛欲裂。视线模糊。来点燃火焰吧。",
+        "class": "Game",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "buildCommand": "npm install",
+          "outputDirectory": "./"
+        },
+        "framework": [
+          "Other"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/doublespeakgames/adarkroom",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/86442241-cd3d-49d2-83f5-bf119ea2b8a8.png"
+      }
+  ],
   "EN": [
     {
       "name": "Hextris",
