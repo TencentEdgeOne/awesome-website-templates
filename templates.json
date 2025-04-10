@@ -195,6 +195,21 @@
         "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/34e2ff56-8730-4a52-9717-340ccef501b0.png"
       },
       {
+        "name": "Interactive Image Grid",
+        "description": "一个使用 Three.js 创造的炫酷交互式图像网格，涵盖设置、动画和着色器。非常适合 Three.js 初学者学习，也适合做展览类页面的开发者借鉴参考。",
+        "class": "Cool DIY",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "rootDirectory": "./final"
+        },
+        "framework": [
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/samueljarry/codrops-tutorial-grid",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/5a4e3f1c-0585-433a-ae01-6eb843125118.png"
+      },
+      {
         "name": "Pacman",
         "description": "一个纯前端制作的吃豆人游戏。适合初学者学习和娱乐。",
         "class": "Game",
@@ -226,6 +241,22 @@
         "docUrl": "",
         "repoDir": "https://github.com/doublespeakgames/adarkroom",
         "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/86442241-cd3d-49d2-83f5-bf119ea2b8a8.png"
+      },
+      {
+        "name": "play floppy bird",
+        "description": "如果您错过了 Flappy Bird 的热潮，那么现在您就有机会尝试这款最佳复古仿制品了。同时也是一个非常适合前端初学者学习游戏开发的项目。",
+        "class": "Game",
+        "publisher": "EdgeOne Pages",
+        "commands": {
+          "outputDirectory": "./"
+        },
+        "framework": [
+          "Other"
+        ],
+        "envs": [],
+        "docUrl": "",
+        "repoDir": "https://github.com/nebez/floppybird",
+        "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2087173c-2ebb-423e-96c7-a4c8ca3c52ad.png"
       }
   ],
   "EN": [
@@ -424,6 +455,21 @@
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/34e2ff56-8730-4a52-9717-340ccef501b0.png"
     },
     {
+      "name": "Interactive Image Grid",
+      "description": "An interactive image grid created with Three.js, covering settings, animations, and shaders. Very suitable for Three.js beginners to learn, and also suitable for developers to learn from when creating exhibition pages.",
+      "class": "Cool DIY",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+        "rootDirectory": "./final"
+      },
+      "framework": [
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/samueljarry/codrops-tutorial-grid",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/5a4e3f1c-0585-433a-ae01-6eb843125118.png"
+    },
+    {
       "name": "Pacman",
       "description": "A Pac-Man game made purely by front-end. Suitable for beginners to learn and play.",
       "class": "Game",
@@ -455,6 +501,22 @@
       "docUrl": "",
       "repoDir": "https://github.com/doublespeakgames/adarkroom",
       "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/86442241-cd3d-49d2-83f5-bf119ea2b8a8.png"
+    },
+    {
+      "name": "play floppy bird",
+      "description": "If you missed the Flappy Bird craze, now is your chance to try out this retro knockoff at its best. It’s also a great project for front-end beginners to learn game development.",
+      "class": "Game",
+      "publisher": "EdgeOne Pages",
+      "commands": {
+        "outputDirectory": "./"
+      },
+      "framework": [
+        "Other"
+      ],
+      "envs": [],
+      "docUrl": "",
+      "repoDir": "https://github.com/nebez/floppybird",
+      "thumbnail": "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2087173c-2ebb-423e-96c7-a4c8ca3c52ad.png"
     }
   ]
 }

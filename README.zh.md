@@ -1,5 +1,5 @@
 <div align="center">
-  <strong> 中文简体｜ <a href="https://github.com/TencentEdgeOne/awesome-website-templates/blob/main/README.md">English</a></strong>
+  <strong> 中文简体 ｜  <a href="https://github.com/TencentEdgeOne/awesome-website-templates/blob/main/README.md">English</a></strong>
 </div>
 <hr/>
 <h1 align="center">📢 很棒的网站模板集合 📢</h1>
@@ -49,6 +49,18 @@
       <div><em>醒来。头痛欲裂。视线模糊。来点燃火焰吧。</em><div> <br/>
       <div>
         <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/doublespeakgames/adarkroom&build-command=npm%20install&output-directory=.%2F" target="_blank" style="text-decoration: none;">🚀 一键部署</a>
+      <div> <br/></td>
+  </tr>
+</table>  
+<table>
+    <td width=350>      
+    <img width="300" object-fit="fill" alt="play floppy bird" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2087173c-2ebb-423e-96c7-a4c8ca3c52ad.png" style="margin-right: 24px"/></td>
+    <td width=700><div>
+      <h3>play floppy bird · <a href="https://github.com/nebez/floppybird">Github👆</a></h3><div> <br/>
+    </div>
+      <div><em>如果您错过了 Flappy Bird 的热潮，那么现在您就有机会尝试这款最佳复古仿制品了。同时也是一个非常适合前端初学者学习游戏开发的项目。</em><div> <br/>
+      <div>
+        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/nebez/floppybird&output-directory=.%2F" target="_blank" style="text-decoration: none;">🚀 一键部署</a>
       <div> <br/></td>
   </tr>
 </table><h1 id='scaffolds'>Scaffolds</h1>  
@@ -181,6 +193,18 @@
       <div><em>使用CSS变换、渐变、混合模式和滤镜来模拟宝可梦剑盾时代交换卡片中的各种全息效果。</em><div> <br/>
       <div>
         <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/simeydotme/pokemon-cards-css&output-directory=dist&install-command=npm%20install&build-command=npm%20run%20build" target="_blank" style="text-decoration: none;">🚀 一键部署</a>
+      <div> <br/></td>
+  </tr>
+</table>  
+<table>
+    <td width=350>      
+    <img width="300" object-fit="fill" alt="Interactive Image Grid" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/5a4e3f1c-0585-433a-ae01-6eb843125118.png" style="margin-right: 24px"/></td>
+    <td width=700><div>
+      <h3>Interactive Image Grid · <a href="https://github.com/samueljarry/codrops-tutorial-grid">Github👆</a></h3><div> <br/>
+    </div>
+      <div><em>一个使用 Three.js 创造的炫酷交互式图像网格，涵盖设置、动画和着色器。非常适合 Three.js 初学者学习，也适合做展览类页面的开发者借鉴参考。</em><div> <br/>
+      <div>
+        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/samueljarry/codrops-tutorial-grid&root-directory=.%2Ffinal" target="_blank" style="text-decoration: none;">🚀 一键部署</a>
       <div> <br/></td>
   </tr>
 </table></div>

@@ -51,6 +51,18 @@
         <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/doublespeakgames/adarkroom&build-command=npm%20install&output-directory=.%2F" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
       <div> <br/></td>
   </tr>
+</table>  
+<table>
+    <td width=350>      
+    <img width="300" object-fit="fill" alt="play floppy bird" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2087173c-2ebb-423e-96c7-a4c8ca3c52ad.png" style="margin-right: 24px"/></td>
+    <td width=700><div>
+      <h3>play floppy bird · <a href="https://github.com/nebez/floppybird">Github👆</a></h3><div> <br/>
+    </div>
+      <div><em>If you missed the Flappy Bird craze, now is your chance to try out this retro knockoff at its best. It’s also a great project for front-end beginners to learn game development.</em><div> <br/>
+      <div>
+        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/nebez/floppybird&output-directory=.%2F" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
+      <div> <br/></td>
+  </tr>
 </table><h1 id='scaffolds'>Scaffolds</h1>  
 <table>
     <td width=350>      
@@ -181,6 +193,18 @@
       <div><em>Uses CSS Transforms, Gradients, Blend-modes and Filters to simulate the various Holofoil effects found in the Sword and Shield era of Pokemon Trading Cards.</em><div> <br/>
       <div>
         <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/simeydotme/pokemon-cards-css&output-directory=dist&install-command=npm%20install&build-command=npm%20run%20build" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
+      <div> <br/></td>
+  </tr>
+</table>  
+<table>
+    <td width=350>      
+    <img width="300" object-fit="fill" alt="Interactive Image Grid" src="https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/5a4e3f1c-0585-433a-ae01-6eb843125118.png" style="margin-right: 24px"/></td>
+    <td width=700><div>
+      <h3>Interactive Image Grid · <a href="https://github.com/samueljarry/codrops-tutorial-grid">Github👆</a></h3><div> <br/>
+    </div>
+      <div><em>An interactive image grid created with Three.js, covering settings, animations, and shaders. Very suitable for Three.js beginners to learn, and also suitable for developers to learn from when creating exhibition pages.</em><div> <br/>
+      <div>
+        <a href="https://edgeone.ai/pages/new?from=awesome&template=https://github.com/samueljarry/codrops-tutorial-grid&root-directory=.%2Ffinal" target="_blank" style="text-decoration: none;">🚀 Deploy Now</a>
       <div> <br/></td>
   </tr>
 </table></div>
